@@ -18,7 +18,7 @@ const baseURL_test = 'http://39.106.38.50:8090';
 
 // 正式
 const baseURL_cn = 'https://api.ono.chat';
-const baseURL_en = 'https://api.ono.chat';
+const baseURL_en = 'https://api.joinono.com';
 
 // 预发接口
 // const baseURL_cn = 'https://test.ono.chat';
